@@ -24,3 +24,4 @@ contract BaseSimpleNFT {
         emit Transfer(address(0), msg.sender, totalSupply);
     }
 }
+Add REST API endpoints
