@@ -25,3 +25,4 @@ contract BaseSimpleNFT {
     }
 }
 Add REST API endpoints
+Implement OAuth login
